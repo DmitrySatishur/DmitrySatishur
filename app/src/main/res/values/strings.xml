@@ -1,5 +1,4 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <string name="app_name">DmitrySatishur</string>
+    <string name="app_name" translatable="false">DmitrySatishur</string>
     <string name="country">GREAT BRITAIN</string>
-    <string name="horizontal" tools:ignore="MissingTranslation">HORIZONTAL</string>
 </resources>
